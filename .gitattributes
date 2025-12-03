@@ -1,0 +1,10 @@
+# Tüm HTML dosyaları LF ile saklansın
+*.html text eol=lf
+
+# CSS ve JS dosyaları da LF ile saklansın
+*.css text eol=lf
+*.js  text eol=lf
+
+# Genel olarak metin dosyaları LF ile saklansın
+*.txt text eol=lf
+*.md  text eol=lf
